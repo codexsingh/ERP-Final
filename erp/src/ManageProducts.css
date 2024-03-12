@@ -1,0 +1,23 @@
+
+.manage-products-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .products-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .products-table th,
+  .products-table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .products-table th {
+    background-color: #f2f2f2;
+  }
+  
